@@ -16,7 +16,7 @@ import sales from "./assets/images/sales.png";
 import employee from "./assets/images/employees.png";
 import client from "./assets/images/clients.png";
 import { BsArrowLeft } from "react-icons/bs";
-import { RiDashboardFill, RiMenu2Fill } from "react-icons/ri";
+import { RiDashboardFill } from "react-icons/ri";
 import { LiaBookSolid } from "react-icons/lia";
 import { TiContacts } from "react-icons/ti";
 import { MdOutlineInventory2, MdPeopleAlt } from "react-icons/md";
